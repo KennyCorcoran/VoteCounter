@@ -10,3 +10,13 @@ BallotPaper::BallotPaper()
 BallotPaper::~BallotPaper()
 {
 }
+
+void setPref(string, int)
+{
+
+}
+
+string getPref(int)
+{
+	return 0;
+}
